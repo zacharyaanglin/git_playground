@@ -1,5 +1,4 @@
 # git_playground
 
-This is just a playground for practicing git collaboration. 
-
+This is a playground for practicing git collaboration. 
 
